@@ -59,9 +59,8 @@
         createParticles('skills-particles', 15);
 // Skills data and initialization
 const technicalSkills = [
-    { name: 'HTML/CSS', level: 85, color: 'from-orange-500 to-red-500' },
-    { name: 'JavaScript', level: 75, color: 'from-yellow-500 to-orange-500' },
-    { name: 'React.js', level: 70, color: 'from-blue-500 to-cyan-500' },
+    { name: 'C', level: 85, color: 'from-orange-500 to-red-500' },
+    { name: 'C++', level: 75, color: 'from-yellow-500 to-orange-500' },
     { name: 'Python', level: 65, color: 'from-green-500 to-blue-500' },
     { name: 'Web Design', level: 80, color: 'from-purple-500 to-pink-500' },
     { name: 'Git/GitHub', level: 75, color: 'from-gray-600 to-gray-800' }
